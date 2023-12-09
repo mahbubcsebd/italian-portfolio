@@ -1,0 +1,235 @@
+@media screen and (max-width: 1600px) {
+    .section-title {
+        font-size: 50px;
+    }
+
+    .spw-title {
+        font-size: 40px;
+    }
+}
+@media screen and (max-width: 1440px) {
+    .spw-title {
+        font-size: 30px;
+    }
+
+    .spw-img {
+        width: 450px;
+    }
+
+    .currency-title {
+        font-size: 40px;
+    }
+
+    .single-work-title {
+        font-size: 22px;
+    }
+}
+@media screen and (max-width: 1366px) {
+    .section-title {
+        font-size: 40px;
+    }
+
+    .st-title {
+        font-size: 40px;
+    }
+
+    .team-name {
+        font-size: 26px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .header-1 {
+        background: #fefbf9;
+    }
+
+    .banner-title {
+        font-size: 50px;
+    }
+
+    .visa-position .abosolute-img {
+        display: none;
+    }
+
+    .experienced-position .abosolute-img {
+        width: 240px !important;
+    }
+
+    .currency-title {
+        font-size: 36px;
+    }
+
+    .header-2 {
+        background: #feeadf;
+    }
+
+    .header .navbar-expand-lg .navbar-nav {
+        gap: 0;
+    }
+
+    .header .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 24px 0;
+        border-bottom: 1px solid #3c4d5a;
+    }
+
+    .header .navbar-expand-lg .navbar-nav .nav-item:last-child .nav-link {
+        border-bottom: 0;
+    }
+
+    .header .navbar-expand-xl .navbar-nav {
+        gap: 0;
+    }
+
+    .header .navbar-expand-xl .navbar-nav .nav-link {
+        padding: 16px 0;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .header .navbar-expand-xl .navbar-nav .nav-item:last-child .nav-link {
+        padding: 16px 0;
+        border-bottom: 0;
+    }
+
+    .header-buttons {
+        padding: 12px 0 !important;
+    }
+
+    .header .navbar-expand-xl {
+        padding: 12px 0;
+    }
+
+    .header-logo,
+    .footer-logo img {
+        width: 130px;
+    }
+
+    .header hr {
+        margin: 0;
+    }
+
+    .footer-middle {
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+
+    .section {
+        padding: 80px 0;
+    }
+
+    .section-pb {
+        padding-bottom: 80px;
+    }
+
+    .section-pt {
+        padding-top: 80px;
+    }
+
+    .padding-from-top-2 {
+        padding-top: 220px;
+    }
+
+    .padding-from-top {
+        background: #feeadf;
+        padding-top: 220px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .section-top-title,
+    .jot-title {
+        font-size: 40px;
+    }
+
+    .banner-title {
+        font-size: 45px;
+    }
+}
+@media screen and (max-width: 992px) {
+    .single-payment-wallet.wallet-lg {
+        flex-direction: column;
+    }
+
+    .st-title {
+        font-size: 36px;
+    }
+
+    .partnership-img {
+        margin-top: 0;
+    }
+
+    .wallet-lg .spw-content {
+        padding: 24px;
+    }
+
+    .single-payment-wallet.wallet-lg {
+        align-items: center;
+    }
+
+    .spw-title {
+        font-size: 26px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .btn {
+        padding: 14px 24px;
+        font-size: 16px;
+    }
+
+    .section-title {
+        font-size: 36px;
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .section-top-title,
+    .jot-title {
+        font-size: 36px;
+    }
+
+    .program-title {
+        font-size: 20px;
+    }
+
+    .currency-title {
+        font-size: 30px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .section-title {
+        font-size: 32px;
+    }
+
+    .banner-title {
+        font-size: 40px;
+    }
+
+    .consultancy-btn-box {
+        flex-direction: column;
+        gap: 16px;
+        align-items: self-start;
+    }
+
+    .currency-title {
+        font-size: 26px;
+    }
+
+    .about-hero-img-wrapper .section-content-img {
+        width: 100%;
+        border-radius: 0;
+    }
+
+    .section-top-title,
+    .jot-title {
+        font-size: 32px;
+    }
+
+    .spw-title {
+        font-size: 24px;
+    }
+}
+@media screen and (max-width: 480px) {
+    .sue-title {
+        font-size: 24px;
+    }
+}
